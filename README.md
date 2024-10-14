@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a food detection app to generate recipes based on your ingredients**
 
-- 🌱 I’m currently learning **AWS, and trying to get better at TypeScript**
+- 🌱 I’m currently **trying to get better at TypeScript**
 
 - 👨‍💻 Most of my projects are available at [https://www.laurapaccanari.com/](https://www.laurapaccanari.com/)
 
