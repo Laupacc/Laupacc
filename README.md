@@ -1,14 +1,10 @@
 # Laura Paccanari
 
-Full-stack developer in Montréal. I build the whole vertical: React, Next.js and Remix
-on the front, Node and Bun services behind it, Postgres through Supabase, Cloudflare
-Workers where a server would be overkill.
+Full-stack developer between Paris and Montréal. I build the whole vertical: React,
+Next.js and Remix on the front, Node and Bun services behind it, Postgres through
+Supabase, Cloudflare Workers where a server would be overkill.
 
-**Now**
-
-- Rebuilding a client site's front end as a Next.js static export, matched to a print mockup
-- A booking and clinical-data platform on Remix, Supabase and Cloudflare Workers
-- Self-hosted inference: llama.cpp and llama-swap gateways on NixOS machines
+**Now** — a booking and clinical-data platform on Remix, Supabase and Cloudflare Workers.
 
 **Toolbox** — TypeScript · React · Next.js · Remix · Node · Bun · Postgres · Supabase · Tailwind · Cloudflare Workers · Playwright · NixOS
 
